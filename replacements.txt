@@ -1,0 +1,1 @@
+regex:.*(postgres|postgresql)://.*==>REDACTED_DATABASE_URL
